@@ -1,0 +1,9 @@
+Warning: Permanently added 'c140-124' (ECDSA) to the list of known hosts.
+WARNING (02/25/24 05:55:42): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6129776.hostlist.npzjOJWV to get hosts
+starting job on c140-124
+starting job on c142-083
+starting job on c144-063
+starting job on c153-173
+starting job on c175-182
+Terminated
